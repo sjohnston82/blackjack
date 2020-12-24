@@ -1,3 +1,1 @@
-# blackjack >>README.md
-
-echo # blackjack
+index.html
